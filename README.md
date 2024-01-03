@@ -6,5 +6,4 @@
     3. Implementation
     4. Test implementation
     5. Sync work with remote repository
-    """
-    
+"""
